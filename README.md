@@ -1,14 +1,15 @@
 <h2 align="center">Hi, I’m <strong>scilentknight</strong> 👋</h2>
 
 <p align="center">
-🚀 Software Engineer | 💻 Web Developer | ☁️ Cloud & DevOps Enthusiast
+🚀 Software Engineer | 💻 Web & Mobile Developer | 📱 Flutter & Dart Enthusiast
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Passionate about modern web development, open-source, and scalable cloud infrastructure
-- 🛠️ Skilled in **Python**, **JavaScript**, **React**, **Node.js**, and **DevOps tools** like **Docker**, **CI/CD**, and **Linux**
+- 🌱 Passionate about modern web development, app development, open-source, and scalable cloud infrastructure
+- 🛠️ Skilled in **Python**, **JavaScript**, **React**, **Node.js**, **Java**, **Kotlin**, **Dart & Flutter**, **Git & Git Bash**, like **Docker**, and **Linux**
+
 - 🤝 Open to collaboration and exciting project ideas
 - 📫 Reach Me: [LinkedIn](https://www.linkedin.com/in/scilentknight02) • [Portfolio](https://pathakprakash.com.np)
 
@@ -28,7 +29,7 @@
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **Portfolio Site** | Personal portfolio to showcase work | React, Bootstrap | [Live](https://pathakprakash.com.np) |
-| **E-commerce Website** | A fully functional e-commerce platform with shopping cart, and payment integration | HTML, CSS, Bootstrap, JS, PHP, MySQL | [Repo](https://github.com/scilentknight/PHP_Proz) •
+| **E-commerce Website** | A fully functional e-commerce platform with shopping cart, and payment integration | HTML, CSS, Bootstrap, JS, PHP, MySQL | [Repo](https://github.com/scilentknight/PHP_Proz)
 
 ---
 
