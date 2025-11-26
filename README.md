@@ -35,10 +35,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scilentknight&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scilentknight&theme=radical" height="180" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scilentknight&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scilentknight&theme=radical)
+
 
 ---
 
