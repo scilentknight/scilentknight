@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I’m <strong>scilentknight</strong> 👋</h2>
 
 <p align="center">
-🚀 Software Engineer | 💻 Web & Mobile Developer | 📱 Flutter & Dart Enthusiast
+🚀 Software Developer | 💻 Web & Mobile Developer | 📱 Flutter & Dart Enthusiast
 </p>
 
 ---
